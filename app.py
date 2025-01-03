@@ -291,4 +291,4 @@ if __name__ == '__main__':
     #keyname = os.environ.get("KEYNAME", "privkey.pem")
     #ssl_context.load_cert_chain(sslPath / chainname, sslPath / keyname)
     load_env()
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=55000)

@@ -5,3 +5,4 @@ pymysql
 PyJWT
 cryptography
 boto3
+python-dotenv
